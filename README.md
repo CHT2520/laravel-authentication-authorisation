@@ -78,7 +78,7 @@ php artisan migrate:fresh --seed
 
 -   Create a new folder in the _resources/views_ folder, name it 'auth'.
 -   Create a new file in the _auth_ folder called _login.blade.php_.
--   Add the following code into this file
+-   Add the following code in this file
 
 ```html
 <x-layout title="Sign In">
