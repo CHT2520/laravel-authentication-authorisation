@@ -67,7 +67,7 @@ class UserSeeder extends Seeder
 -   Ask Artisan to re-generate the database tables.
 
 ```
-- php artisan migrate:fresh --seed
+php artisan migrate:fresh --seed
 ```
 
 -   In phpMyAdmin check you have some rows in the _users_ table and notice that the passwords have been hashed.
