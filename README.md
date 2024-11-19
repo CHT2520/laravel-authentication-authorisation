@@ -433,7 +433,7 @@ This works but really we want hide navigation options from users that don't have
 When a user isn't authorised to perform an action they receive a 403 page. It would be nice if this page was styled to fit with the rest of the application
 
 -   Create a new folder called 'errors' in the _resources/views_ folder.
--   Create a new _404.blade.php_ file in this folder.
+-   Create a new _403.blade.php_ file in this folder.
 -   Add the following code in this page.
 
 ```html
